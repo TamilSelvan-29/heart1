@@ -1,4 +1,1 @@
 streamlit
-sickit-learn
-joblib
-pandas
